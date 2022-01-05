@@ -23,10 +23,16 @@ section{
     background-image: linear-gradient(orange,tomato);
     padding: 10px 40px;
     border-radius: 10px;
+    font-weight: 700;
     color: white;
     
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.Dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
